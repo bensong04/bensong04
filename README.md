@@ -3,6 +3,6 @@ hey, i'm ben and i'm currently a rising sophomore studying electrical/computer e
 
 beyond academics, i'm a pretty big fan of all things relating to music. i've been trying to start a vinyl collection, but haven't had much success, mainly due to my own procrastination.
 
-this summer, i'll be working on [https://opencxl.org/](opencxl) as an intern at [eeum.io](eeum). opencxl is a cpython-based platform for emulating cxl devices.
+this summer, i'll be working on [opencxl](https://opencxl.org/) as an intern at [eeum](eeum.io). opencxl is a cpython-based platform for emulating cxl devices.
 
-please reach out to me via my [mailto:benedict04song@gmail.com](email) or discord (amnsc) if we share any interests, or if you'd just like to chat!
+please reach out to me via my [email](mailto:benedict04song@gmail.com) or discord (amnsc) if we share any interests, or if you'd just like to chat!
